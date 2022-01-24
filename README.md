@@ -1,7 +1,7 @@
 # NeseliBarinakGonulluTakip
-Barınak Gönüllüleri Takip Projesi
--Gönüllü Kaydol / Giriş Yap Ekranları
--Gönüllü Bilgilerini Düzenleme Ekranı
--Yeni Görev Ekleme Ekranı
--Gönüllü Adına Göre Görev Listeleme Ekranı
--Filtreleyerek Arama Ekranı
+<strong> Barınak Gönüllüleri Takip Projesi </strong>
+<br> - Gönüllü Kaydol / Giriş Yap Ekranları
+<br> - Gönüllü Bilgilerini Düzenleme Ekranı
+<br> - Yeni Görev Ekleme Ekranı
+<br> - Gönüllü Adına Göre Görev Listeleme Ekranı
+<br> - Filtreleyerek Arama Ekranı
